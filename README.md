@@ -14,7 +14,7 @@
   
   | Students can edit the value of each object's property such as its position, velocity, acceleration, mass, and time
   
-    -By editing the object's properties, students can observe how each of the object's properties affects its behavior in space*
+    |By editing the object's properties, students can observe how each of the object's properties affects its behavior in space*
     
   | Students can edit the value of the environment's property such as scale, gravity, and time
   
